@@ -9,8 +9,8 @@ const ibmPlexMono = IBM_Plex_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Sovereign Sentinel | TEE Interface",
-  description: "Secure Execution Environment for Kai & Nova",
+  title: "Sovereign Intelligence Terminal",
+  description: "Autonomous Control Substrate for Kai & Nova",
 };
 
 export default function RootLayout({
